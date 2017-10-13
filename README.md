@@ -1,2 +1,2 @@
 # girduk.github.io
-Repository for girduk's blog.
+Repository for girduk's personal blog.
